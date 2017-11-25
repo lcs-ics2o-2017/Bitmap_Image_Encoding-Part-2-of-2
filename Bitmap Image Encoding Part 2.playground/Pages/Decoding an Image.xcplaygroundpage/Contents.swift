@@ -115,8 +115,22 @@ for character in encodedBitmap {
  
  Write your ideas in the code comment below.
  */
+
 // I notice that...
 // I know this because...
+
+/*:
+ ## Extension
+ Now that you have an understanding of how if statements (also called *selection* statements or *conditional* statements) work... extend this code.
+ 
+ How could you adjust the rules so that pixels can be rendered in colour?
+ 
+ What additions or changes would you need to make to the code above?
+ 
+ Work with a partner to discuss possibilities and then make the changes in code.
+ */
+
+
 /*:
  Now, **remember to commit and push your work**.
  */
