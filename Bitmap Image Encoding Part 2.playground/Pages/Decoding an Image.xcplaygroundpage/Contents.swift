@@ -65,7 +65,7 @@ for character in encodedBitmap {
         // Are we past the first pixel in a row?
         if x > 0 {
 
-            // Toggle the pixel
+            // Toggle the pixel colour
             if currentColor == "black" {
                 currentColor = "white"
                 canvas.fillColor = Color.white
